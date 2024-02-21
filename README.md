@@ -29,7 +29,7 @@ Top-level component that orchestrates the game flow, manages history, and contro
 1. Clone the repository:
 
     ```
-    git clone https://github.com/Dennis-DW/Tic-Tac-Toe-Game.git
+    git clone https://github.com/your/repository.git
     ```
 
 2. Navigate to the project directory:
@@ -62,7 +62,7 @@ Top-level component that orchestrates the game flow, manages history, and contro
 
 ## Credits
 
-This project is based on the React Tic-Tac-Toe tutorial available on the React website.
+This project is based on the React Tic-Tac-Toe tutorial available on the [React website](https://react.dev/learn/tutorial-tic-tac-toe).
 
 ## License
 
